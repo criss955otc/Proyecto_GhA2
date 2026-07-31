@@ -15,6 +15,10 @@
 
 
 name: Setup CI
+permissions:
+  contents: write
+  pages: write        # needed if deploying GitHub Pages
+  id-token: write     # only if you use OIDC; optional
 on:
   push:
     paths:
