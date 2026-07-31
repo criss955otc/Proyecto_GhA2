@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "43.70%",
-    "uptimeDay": "43.70%",
-    "uptimeWeek": "43.70%",
-    "uptimeMonth": "43.70%",
-    "uptimeYear": "43.70%",
+    "uptime": "40.07%",
+    "uptimeDay": "40.07%",
+    "uptimeWeek": "40.07%",
+    "uptimeMonth": "40.07%",
+    "uptimeYear": "40.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 0
+      "2026-07-31": 1
     }
   },
   {
@@ -79,16 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-pv6-test",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "67.46%",
+    "uptimeDay": "67.46%",
+    "uptimeWeek": "67.46%",
+    "uptimeMonth": "67.46%",
+    "uptimeYear": "67.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-31": 0
+    }
   }
 ]
